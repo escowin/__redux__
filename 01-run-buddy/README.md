@@ -12,3 +12,5 @@ https://escowin.github.io/__reudx__/01-run-buddy/
 
 ## Contribution
 Module Revistor: Edwin Escobar
+
+# Run Buddy, Inc.
