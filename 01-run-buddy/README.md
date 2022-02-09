@@ -11,4 +11,6 @@ A website that offers fitness training services.
 https://escowin.github.io/__reudx__/01-run-buddy/
 
 ## Contribution
-Module Revistor: Edwin Escobar
+Module Revisted by Edwin Escobar
+
+### ©️2019 Run Buddy, Inc 
