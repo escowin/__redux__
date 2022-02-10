@@ -1,16 +1,16 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://escowin.github.io/__reudx__/01-run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Module Revisted by Edwin Escobar
+Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
